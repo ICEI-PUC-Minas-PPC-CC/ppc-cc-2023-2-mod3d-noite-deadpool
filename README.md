@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Animação Deadpool / Cabeça Geralt (The Witcher)
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: MODELAGEM E CONSTRUÇÃO DE APLICAÇÕES 3D`
